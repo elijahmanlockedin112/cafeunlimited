@@ -1,0 +1,253 @@
+.nav {
+	border: 3px solid #aac3f0;
+	width: fit-content;
+	align-items: center;
+	background-color: #8eaadb;
+	border-radius: 32px;
+	font-size: 40px;
+	font-family: Coiny;
+	padding:15px;
+}
+hr {
+	border: 2px dashed #ffd75d;
+	
+}
+#Banner {
+	height:150px;
+}
+#Pancakes {
+	height: 370px;
+}
+
+#Muffins {
+	height: 370px;
+}
+
+.big_welcome {
+	display: flex;
+	gap: 5px;
+}
+
+#welcome_text {
+	border: 2px dotted black;
+	width: 50%;
+	display: inline-block;
+}
+
+#welcome_images {
+	display: flex;
+	border: 2px dotted black;
+	width: 50%;
+}
+
+
+body {
+	background-color:#aac3f0;
+}
+
+p,ul,li {
+	font-family: "Sniglet";
+	font-size: 22px;
+}
+h2 {
+	font-family: "Coiny";
+	font-weight: 5px;
+	font-size:28px;
+	color: #2a5dd1;;
+}
+
+h1 {
+	font-family: "Chewy";
+	font-weight: 5px;
+	text-decoration: underline;
+	font-size: 60px;
+	color: #FFD966;
+	
+}
+i {
+	color: red;
+}
+
+a {
+	color: #2a5dd1;
+}
+
+/*PANCAKES*/
+	.pancakes {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 10px;
+		align-items: stretch;
+		justify-content: center;
+	}
+
+	.pancakes img {
+		width: 100%;
+		padding: 0px;
+	}
+
+	.pancakes p{
+		width: 400px;
+		text-align: center;
+		padding: 6px;
+	}
+
+	.pancakes > div {
+		border: 3px solid black;
+		display: inline-block;
+		background-color: white;
+		border-radius: 15px;
+		width: 420px;
+		overflow:hidden;
+	}
+/*---------------------------------------------------------------------*/
+
+/*EGGS*/
+	.eggs_and_sides {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 10px;
+		align-items: stretch;
+		justify-content: center;
+	}
+
+	.eggs_and_sides img {
+		width: 100%;
+		padding:0px;	
+	}
+
+	.eggs_and_sides p{
+		width: 400px;
+		text-align: center;
+		padding: 6px;
+	}
+
+	.eggs_and_sides > div {
+		border: 3px solid black;
+		display: inline-block;
+		background-color: white;
+		border-radius: 15px;
+		width: 420px;
+		overflow:hidden;
+	}
+/*---------------------------------------------------------------------*/
+
+/*LUNCH1*/
+	.lunch1 {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 10px;
+		align-items: stretch;
+		justify-content: center;
+	}
+
+	.lunch1 img {
+		width: 100%;
+		padding:0px;	
+	}
+
+	.lunch1 p{
+		width: 400px;
+		text-align: center;
+		padding: 6px;
+	}
+
+	.lunch1 > div {
+		border: 3px solid black;
+		display: inline-block;
+		background-color: white;
+		border-radius: 15px;
+		width: 420px;
+		overflow:hidden;
+	}
+/*---------------------------------------------------------------------*/
+
+/*LUNCH2*/
+	.lunch2 {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 10px;
+		align-items: stretch;
+		justify-content: center;
+	}
+
+	.lunch2 img {
+		width: 100%;
+		padding:0px;	
+	}
+
+	.lunch2 p{
+		width: 400px;
+		text-align: center;
+		padding: 6px;
+	}
+
+	.lunch2 > div {
+		border: 3px solid black;
+		display: inline-block;
+		background-color: white;
+		border-radius: 15px;
+		width: 420px;
+		overflow:hidden;
+	}
+/*---------------------------------------------------------------------*/
+
+/*DINNER1*/
+	.dinner1 {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 10px;
+		align-items: stretch;
+		justify-content: center;
+	}
+
+	.dinner1 img {
+		width: 100%;
+		padding:0px;	
+	}
+
+	.dinner1 p{
+		width: 400px;
+		text-align: center;
+		padding: 6px;
+	}
+
+	.dinner1 > div {
+		border: 3px solid black;
+		display: inline-block;
+		background-color: white;
+		border-radius: 15px;
+		width: 420px;
+		overflow:hidden;
+	}
+/*---------------------------------------------------------------------*/
+
+/*DINNER2*/
+	.dinner2 {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 10px;
+		align-items: stretch;
+		justify-content: center;
+	}
+
+	.dinner2 img {
+		width: 100%;
+		padding:0px;	
+	}
+
+	.dinner2 p{
+		width: 400px;
+		text-align: center;
+		padding: 6px;
+	}
+
+	.dinner2 > div {
+		border: 3px solid black;
+		display: inline-block;
+		background-color: white;
+		border-radius: 15px;
+		width: 420px;
+		overflow:hidden;
+	}
+/*---------------------------------------------------------------------*/
